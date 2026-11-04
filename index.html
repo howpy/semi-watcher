@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Semi-Watcher — 半导体情报日报</title>
+<style>
+:root{--bg:#0f1117;--surface:#1a1f2e;--text:#e0e0e0;--text-dim:#a0a8b0;--accent:#4ade80;--warning:#fbbf24;--border:#2a3040;--link:#60a5fa}
+* {box-sizing:border-box}
+body {font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,
+  "PingFang SC","Hiragino Sans GB",sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.7;margin:0;padding:0}
+header {background:var(--surface);border-bottom:1px solid var(--border);
+  padding:2rem 1.5rem;text-align:center}
+.logo {font-size:2rem;font-weight:700;color:var(--accent);letter-spacing:2px}
+.subtitle {color:var(--text-dim);font-size:.95rem;margin-top:.3rem}
+.container {max-width:720px;margin:2rem auto;padding:0 1.5rem}
+h2 {color:var(--warning);margin-top:2rem;border-left:3px solid var(--accent);padding-left:.5rem}
+.card {
+  background:var(--surface);border:1px solid var(--border);border-radius:8px;
+  padding:1rem;margin:1rem 0;display:block;text-decoration:none;
+  transition:border-color .2s
+}
+.card:hover {border-color:var(--accent)}
+.card .title {font-size:1.05rem;color:var(--accent);font-weight:600;margin:0}
+.card .desc {color:var(--text-dim);font-size:.85rem;margin-top:.3rem}
+footer {margin-top:3rem;text-align:center;color:var(--text-dim);font-size:.8rem}
+@media(max-width:600px){.logo{font-size:1.5rem}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">🔭 Semi-Watcher</div>
+  <div class="subtitle">半导体 X 射线检测情报 · 每日更新</div>
+</header>
+<div class="container">
+  <h2>📰 最新日报</h2>
+  <a href="./daily-2026-11-02-cn.html" class="card">
+    <div class="title">每日半导体 X 射线检测情报 — 2026-11-02</div>
+    <div class="desc">韩国 TGV · HBM/CT 量测 · 玻璃基板 · Xavis · Onto Innovation · Rayence</div>
+  </a>
+</div>
+<footer>
+  <p>由 WebWatcher 自动发布 · ©2026</p>
+</footer>
+</body>
+</html>
