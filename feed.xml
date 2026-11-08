@@ -5,9 +5,16 @@
     <link>https://howpy.github.io/semi-watcher/</link>
     <description>关注 X-ray检测/成像、半导体质控(QC/QA)、失效分析(FA)、先进封装检测、设备厂商动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 18:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:48:38 GMT</lastBuildDate>
     <atom:link href="https://howpy.github.io/semi-watcher/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+        <title><![CDATA[半导体检测与制造资讯核验更新 — 2026-11-07]]></title>
+        <link>https://howpy.github.io/semi-watcher/docs/2026-11-07.html</link>
+        <guid isPermaLink="true">https://howpy.github.io/semi-watcher/docs/2026-11-07.html</guid>
+        <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        <description><![CDATA[SEMI 报告，2026 年第三季度全球硅片出货量为 37.56 亿平方英寸，较 2025 年同期的 33.13 亿平方英寸增长 13.4%，较第二季度增长 5.1%。SEMI 将需求回升与 AI、工业应用及先进封装相关需求联系起来。... 🔥1 ⭐2 📊2]]></description>
+        <category>🔥1 ⭐2 📊2</category>
+    </item>    <item>
         <title><![CDATA[半导体 X 射线检测情报 — 2026-11-05（中文）]]></title>
         <link>https://howpy.github.io/semi-watcher/daily-2026-11-05-cn.html</link>
         <guid isPermaLink="true">https://howpy.github.io/semi-watcher/daily-2026-11-05-cn.html</guid>
@@ -21,13 +28,6 @@
         <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
         <description><![CDATA[查看详细资讯... —]]></description>
         <category>—</category>
-    </item>    <item>
-        <title><![CDATA[Nordson TEST 发布全新 X7000 系列 3D X-ray 检测系统，突破亚微米分辨率瓶颈]]></title>
-        <link>https://howpy.github.io/semi-watcher/docs/2025-01-15.html</link>
-        <guid isPermaLink="true">https://howpy.github.io/semi-watcher/docs/2025-01-15.html</guid>
-        <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-        <description><![CDATA[Nordson TEST 正式发布 X7000 系列高性能 3D X-ray 检测平台，采用全新设计的微焦点 X-ray 源 (最小焦斑 1.5µm) 搭配高动态范围平板探测器，实现 0.8µm 空间分辨率的 3D CT 成像。该系统专为先... 🔥2 ⭐3 📊4 📄3]]></description>
-        <category>🔥2 ⭐3 📊4 📄3</category>
     </item>
 </channel>
 </rss>
